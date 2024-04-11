@@ -11,4 +11,4 @@ First install the required modules using
 pip install -r requirements.txt
 ```
 
-Second run `jupyter notebook` and then select the file *Cancer Model Code_Final.ipynb*
+Second run `jupyter notebook` and then select the file *Cancer Model Code_FINAL.ipynb*
